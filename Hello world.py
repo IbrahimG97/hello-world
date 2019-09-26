@@ -1,0 +1,5 @@
+print('hello world')
+print()
+print('What is your name?')
+input()
+print('thats a groovy name!')
