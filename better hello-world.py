@@ -1,0 +1,5 @@
+print("hello friends")
+print()
+print('This is a better program, What do you think?')
+input()
+print('HA it doesnt matter what you think!')
